@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>It's a paragraph tag</p>
+
+    <!-- <br> breaks the line -->
+
+    <!-- Types of Font  -->
+    <b>Bold</b> <br>
+    <i>Italic</i> <br>
+    <u>Underlined</u> <br> <br>
+
+    <!-- link -->
+
+    <hr>
+     <a href="/Form/index.html" target="_main"> MY FORM </a> <br>
+    <hr>
+
+    <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google image" width="200"/>
+    <hr>
+
+    <a href="https://www.google.com/"> GOOGLE </a>
+    <hr>
+    
+    <a href= "https://www.youtube.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9dI8buhIOC4xpDDuPpB4Zr-XXoS3a1dW92g&s" alt="yt image" width ="100"> </a>
+    <hr>
+
+    <!-- Many more random imp tags -->
+
+    <big> This tag Shows Big Text  <hr> </big>
+    <small> This tag Shows Small Text</small>
+    <hr> 
+    <p>H<sub>2</sub>O</p>
+    <hr>
+    <p>A<sup>n</sup> + B<sup>3</sup> = C<sup>6</sup></p>
+    <p>3<sup>2</sup>=9</p>
+    <hr>
+    <pre> HELLO                 Hello                hello</pre>
+<hr>
+
+    <!-- Table format -->
+
+<table>
+    <thead>
+        <th colspan="2">All abt Namesss</th>
+    <tr>
+        <th>FIRST NAME</th>
+        <th>LAST NAME</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Labdhi</td>
+        <td>Shah</td>
+    </tr>
+    <tr>
+        <td>Kreena</td>
+        <td>Shah</td>
+    </tr>
+    <tr>
+        <td>Yashvi</td>
+        <td>Shah</td>
+    </tr>
+    <tr>
+        <td>Rutvi</td>
+        <td>Shah</td>
+    </tr>
+</tbody>
+</table>
+<hr>
+
+    <!-- Bullets -->
+
+    <!-- Unordereddd -->
+     <ul>
+        <li> Breakfast
+            <ul>
+                 <li>Bread</li>
+                 <li>Tea</li>
+                 <li>Coffee</li>
+             </ul>
+        </li>
+
+        <li> Lunch
+            <ul>
+                 <li>Roti</li>
+                 <li>Dal</li>
+                 <li>Rice</li>
+             </ul>
+        </li>
+
+        <li> Dinner
+            <ul>
+                 <li>Pizza</li>
+                 <li>Burger</li>
+                 <li>Dosa</li>
+             </ul>
+        </li>
+     </ul>
+<hr>
+
+    <!-- Ordereddd -->
+    <ol>
+        <li> Breakfast
+            <ol>
+                 <li>Bread</li>
+                 <li>Tea</li>
+                 <li>Coffee</li>
+             </ol>
+        </li>
+
+        <li> Lunch
+            <ol>
+                 <li>Roti</li>
+                 <li>Dal</li>
+                 <li>Rice</li>
+             </ol>
+        </li>
+
+        <li> Dinner
+            <ol>
+                 <li>Pizza</li>
+                 <li>Burger</li>
+                 <li>Dosa</li>
+             </ol>
+        </li>
+     </ol>
+<hr>
+
+    <!-- Font size -->
+    <h1> h1 </h1> 
+    <h2> h2 </h2> 
+    <h3> h3 </h3> 
+    <h4> h4 </h4>
+    <h5> h5 </h5> 
+    <h6> h6 </h6>
+
+</body>
+</html>
